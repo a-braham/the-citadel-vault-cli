@@ -1,8 +1,0 @@
-README.rst
-setup.py
-citadel.egg-info/PKG-INFO
-citadel.egg-info/SOURCES.txt
-citadel.egg-info/dependency_links.txt
-citadel.egg-info/entry_points.txt
-citadel.egg-info/requires.txt
-citadel.egg-info/top_level.txt
