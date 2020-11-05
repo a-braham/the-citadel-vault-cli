@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        citadel=app.run:main
-    
